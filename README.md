@@ -1,11 +1,9 @@
 # breakout_remix_opengl_2d_game
 
-/////////////////////////////////////////////////////////////////////////////////////
-//
-//  BREAKOUT REMIX 
-//  --------------
-//  by slate2b
-//
+# BREAKOUT REMIX 
+--------------
+by slate2b
+
 //  The goal of this project is to create a minimalist version of the classic 
 //  Atari 2600 game "Breakout" without relying on libraries like SDL or SFML...
 //  with a slight twist.  
