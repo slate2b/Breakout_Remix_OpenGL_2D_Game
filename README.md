@@ -1,5 +1,3 @@
-# breakout_remix_opengl_2d_game
-
 # BREAKOUT REMIX - A Retro 2D OpenGL Project
 ----------------
 by slate2b
