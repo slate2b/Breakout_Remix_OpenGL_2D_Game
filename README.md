@@ -12,6 +12,7 @@ In this remix version, the player can place up to five balls in play at once
 by pressing the Spacebar.  When all the balls have dropped below the bottom
 of the screen, the game resets.  
 
+
 ![breakout_remix_screencap3](https://user-images.githubusercontent.com/88697660/190292336-27876d3d-a481-431f-a063-0e8b3003a0ff.PNG)
  
 The design and code for this project, especially the collision detection,
