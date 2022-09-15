@@ -15,6 +15,7 @@ of the screen, the game resets.
 
 ![breakout_remix_screencap3](https://user-images.githubusercontent.com/88697660/190292336-27876d3d-a481-431f-a063-0e8b3003a0ff.PNG)
  
+ 
 The design and code for this project, especially the collision detection,
 were inspired and influenced by the framework outlined in the 2D Game section
 of the Learn OpenGL site found at: https://learnopengl.com/
