@@ -16,7 +16,7 @@ The design and code for this project, especially the collision detection,
 were inspired and influenced by the framework outlined in the 2D Game section
 of the Learn OpenGL site found at: https://learnopengl.com/
 
-This project utilzes the following concepts / approaches / tools:
+This project utilizes the following concepts / approaches / tools:
  
     * Shader programs written in GLSL to send data to GPU
     * OpenGL coding via GLAD, GLFW, and GLM
